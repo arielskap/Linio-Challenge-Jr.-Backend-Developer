@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535139487 source:c:\users\santiago\desktop\linio\main.c
+	<stdio.h>
+	<stdlib.h>
+
